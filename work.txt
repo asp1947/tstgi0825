@@ -1,4 +1,8 @@
 1
+<<<<<<< HEAD
 2
 3
 git test
+=======
+2
+>>>>>>> parent of 25f7d93 (v3)
